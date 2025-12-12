@@ -1,9 +1,14 @@
 # Tetris_Terminal
 Un tetris en la terminal
 
-controles:
+# controles:
+
 q : salir
+
 w : rotar
+
 a : izquierda
+
 s : bajada rapida
+
 d : derecha
