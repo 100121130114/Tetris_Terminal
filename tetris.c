@@ -188,9 +188,9 @@ int main(){
     if(map[a][b]==1){printf("%c",chr[1]);}
    }
   }
-  printf("%d\n",line,ubb[0],ubb[1],rot);
-  if(arcm==1){printf("ARC-B",arcm);}
-  if(arcm==2){printf("ARC-L",arcm);}
+  printf("%d\n",line);
+  if(arcm==1){printf("ARC-B");}
+  if(arcm==2){printf("ARC-L");}
   if(term){if(termh){printf(" TER-H");}else{printf("TER");}}
   printf("\n");
   if((kbhit())&&(fp[0]==0)){
